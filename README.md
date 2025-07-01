@@ -123,5 +123,4 @@ This launches the Flask server on [http://localhost:5000](http://localhost:5000)
 ## 🧑‍💻 Author
 
 **Stella Jo**  
-SIT708 Mobile Application Development  
 GitHub: [github.com/stellajo99](https://github.com/stellajo99)
