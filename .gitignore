@@ -1,0 +1,38 @@
+# 🔒 Environment variables
+.env
+.env.*
+
+# 🐍 Python virtual environments and cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🗃️ Local SQLite database files
+*.db
+*.sqlite
+
+# 📱 Android Studio project files
+*.iml
+.gradle/
+.idea/
+build/
+captures/
+local.properties
+
+# ⚙️ Gradle cache
+.gradle/
+*.log
+
+# 🧪 Temporary & editor files
+*.log
+*.tmp
+*.swp
+
+# 💻 OS-specific files
+Thumbs.db
+.DS_Store
+
+# 📦 Node modules (if used in frontend)
+node_modules/
